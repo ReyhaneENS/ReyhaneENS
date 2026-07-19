@@ -257,7 +257,7 @@ $ ./run-mission.sh
 │                                                       │
 │  🎸 Learning guitar                                   │
 │  🎧 Exploring music                                   │
-│  🎮 Gaming                                            │
+│  💪 Gym                                            │
 │  🎨 Experimenting with UI                             │
 │  🧠 Learning something new                            │
 │                                                       │
